@@ -1,2 +1,4 @@
 some visually nice outputs (in jupyter notebook files)  
-from HackInScience exercises finished by myself.
+from HackInScience python exercises finished by myself.
+
+(selected from my exercises repository: https://github.com/jablka/HackInScience)
